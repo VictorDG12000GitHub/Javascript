@@ -1,1 +1,1 @@
-<h1 aling="center"> Javascript (EN)</h1>
+<h1 align="center"> Javascript (EN)</h1>
